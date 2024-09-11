@@ -1,0 +1,11 @@
+.country-item {
+  border: 1px solid lightgray;
+  margin-right: 15px;
+  padding: 8px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.selected {
+  outline: 2px solid #000000; 
+  background-color: #f0f0f0;
+}
